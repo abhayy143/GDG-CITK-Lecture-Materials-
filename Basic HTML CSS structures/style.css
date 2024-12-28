@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* White background */
+}
+
+h1 {
+    color: #000000; /* Black text color */
+    text-align: center; /* Center align text */
+}
+
+p {
+    color: red; /* red text color */
+    line-height: 1.5; /* Space between lines */
+    margin: 10px; /* Margin around paragraphs */
+}
+
+a {
+    color: #0000ff; /* Blue text color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
